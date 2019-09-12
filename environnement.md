@@ -1,24 +1,22 @@
-<iframe title="menu" src="menu.md" width="400" height="300">
-</iframe>
 
-
-<center>
 <table>
 	<tr>
 		<tr>
 <bold>Menu</bold> 		
 		</tr>	
-		<td>															
-1. [Introduction]<br>															
-<a href="environnement.md">2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>			
-   1. [Pour les enfants](#enfants)<br>										
-   2. [Pour les adultes](#adultes)<br>										
-<a href="environnement.md">3. [Avantages]</a><br>															
-4. [Et le numérique dans tout ca ?]<br>
+		<td>	
+			<ol>														
+<li>[Introduction]<br></li>															
+<li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br></li>			
+<li>	[Pour les enfants](#enfants)<br></li>									
+<li>	[Pour les adultes](#adultes)<br></li>									
+<li><a href="environnement.md">3. [Avantages]</a><br></li>														
+<li>[Et le numérique dans tout ca ?]<br></li>
+			</ol>
 		</td>
 	</tr>	
 </table>
-</center>
+
 
 
 
