@@ -1,6 +1,6 @@
 # Environnement Optimisé pour l' Apprentissage
 <center>
-<table>
+<table align="center">
 			<ol>														
 <li>[Introduction]<br>														
 <li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>
