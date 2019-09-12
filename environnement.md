@@ -53,10 +53,10 @@ Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'ap
 
 > A venir
 
+<div align="center">
 
-
-![Fin](https://media2.giphy.com/media/jYAGkoghdmD9S/source.gif)
-
+<img src="https://media2.giphy.com/media/jYAGkoghdmD9S/source.gif">
+</div>
 
 
 #### Petit Plus
