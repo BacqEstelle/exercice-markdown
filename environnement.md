@@ -2,12 +2,12 @@
 	<tr>
 # Menu 			
 		<td>															
-1. [Introduction]															
-2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]			
-   1. [Pour les enfants](#enfants)										
-   2. [Pour les adultes](#adultes)										
-3. [Avantages]															
-4. [Et le numérique dans tout ca ?]
+1. [Introduction]<br>															
+2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]<br>			
+   1. [Pour les enfants](#enfants)<br>										
+   2. [Pour les adultes](#adultes)<br>										
+3. [Avantages]<br>															
+4. [Et le numérique dans tout ca ?]<br>
 		</td>
 	</tr>	
 </table>
