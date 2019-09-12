@@ -11,6 +11,7 @@
 
 Avec la participation de : 
 - [Emile](https://github.com/emilemarkus/)
-- [Adrien]
+- [Adrien](https://github.com/adriensantarone/)
 - [Vincent](https://github.com/Vincent-120/)
 - [Estelle](https://github.com/BacqEstelle/)
+
