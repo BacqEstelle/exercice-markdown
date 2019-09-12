@@ -18,9 +18,9 @@
 </table>
 
 ## 3. Les avantages et inconvéniants de passer par un environnement optimisé pour l'apprentissage
-<div id="avantage"></div>
-### 3.1 Les avantages
 
+### 3.1 Les avantages
+<div id="avantage"></div>
 Passer par l'apprentissage en ligne ou via l'informatique apporte pour la société et l'apprenant divers avantages
     non négligeable. Ils peuvent être divers selon le modèle choisit mais dans les grande ligne nous pouvons dire
     que ils sont d’ordre divers. **Voyons les en détails...**
@@ -49,8 +49,8 @@ Passer par l'apprentissage en ligne ou via l'informatique apporte pour la socié
         
 
 
-<div id="inconveniant"></div>
   ### 3.2 Les inconvénient de passer par un environnement optimisé pour l'apprentissage
+<div id="inconveniant"></div>
 
 Et oui, il y en à...mais minime...selon les personnes et situations. Çà demande de l'auto-discipline, ce qui peut faire votre force peut devenir votre point faible. Il ne faut pas avoir peur de prendre contact avec les enseignants et le cas échéant demander une entrevue.  
 
