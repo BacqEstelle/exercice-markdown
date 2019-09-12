@@ -1,3 +1,4 @@
+
 ## 3. Les avantages et inconvéniants de passer par un environnement optimisé pour l'apprentissage
 
 ### 3.1 Les avantages
@@ -22,6 +23,12 @@ Passer par l'apprentissage en ligne ou via l'informatique apporte pour la socié
         A ne pas minimisé, les étudiant prennent confiance en eux et non plus la crainte d'être à la traine.
         Ca les forces à prendre conscience du chemins à parcourir. Et prennent conscience de leurs
         réelle capacités.
+        
+        
+   <p align="center">
+   <img  src="https://dataworks-ed.com/wordpress-content/uploads/Checking-For-Understanding.gif">
+   </p>
+        
 
 
 
