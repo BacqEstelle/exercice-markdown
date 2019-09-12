@@ -61,8 +61,6 @@ Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'ap
 
 #### Petit Plus
 
-`
-<script type="text/javascript">
+`<script type="text/javascript">
     alert("Hello!");
-</script>
-`
+</script>`
