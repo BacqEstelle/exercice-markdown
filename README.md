@@ -11,7 +11,7 @@
 ## Participants
 
 Avec la participation de : 
-- [Emile](
+- [Emile](https://github.com/emilemarkus/)
 - [Adrien]
 - [Vincent]
 - [Estelle](https://github.com/BacqEstelle/)
