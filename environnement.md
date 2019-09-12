@@ -7,9 +7,11 @@
 		<td>	
 			<ol>														
 <li>[Introduction]<br>														
-<li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>		
+<li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>
+			<ol>		
 <li>	[Pour les enfants](#enfants)<br>									
-<li>	[Pour les adultes](#adultes)<br></li>									
+<li>	[Pour les adultes](#adultes)<br></li>
+			</ol>									
 <li><a href="environnement.md">[Avantages]</a><br>														
 <li>[Et le numérique dans tout ca ?]<br></li>
 			</ol>
