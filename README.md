@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="{{ https://github.com/BacqEstelle/exercice-markdown }}/css/style.css">
 # Bienvenue sur notre travail de groupe concernant un Environnement Optimisé pour l' Apprentissage
 
 ## Listing du contenu
