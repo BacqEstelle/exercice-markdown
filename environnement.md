@@ -9,8 +9,8 @@
 <li>[Introduction]<br>														
 <li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>
 			<ol>		
-<li><a href="#enfants">	[Pour les enfants](#enfants)</a><br>									
-<li><a href="#adultes">	[Pour les adultes](#adultes)</a><br></li>
+<li><a href="#enfants">	[Pour les enfants]</a><br>									
+<li><a href="#adultes">	[Pour les adultes]</a><br></li>
 			</ol>									
 <li><a href="environnement.md">[Avantages]</a><br>														
 <li>[Et le numérique dans tout ca ?]<br></li>
@@ -29,9 +29,10 @@ Le terme ** «Environnement d’apprentissage» ** est de plus en plus présent 
 ** «Environnement d’apprentissage» ** est une terme de plus en plus entendu dans l'actualité ses derniers moments concernant l'éducation, la formation et l'apprentissage chez l'être humain.
 Celà correspond a une demande de plus en plus présente. Une révolution en quelques sortes sur une méthode d'apprentissage reconnue comme * moyen-ageuse * .
 
-<div id="enfants">
+
 ## 2.1 Pour les enfants
 
+<div id="enfants"></div>
 Rien de plus important qu'une environnement structuré pour l'enfant, mais hélas, et par manque de temps, ce milieu est souvent laissé a l'abandon pour donner lieu a un système ou le meilleur gagne, et celui qui n'arrive pas a suivre est laissé pour compte.
 Cette structure existe pourtant depuis longtemps, dans ce qu'on appelle "les écoles spécialisées" ou l'enseignement est totalement différent.
 Les enfants s'entraident, discutent, partagent leurs sentiments ainsi que leurs désires d'avancement, ce qui ** pousse ** le groupe vers le haut, aucun enfant n'est mis de coté et l'apprentissage se fait par l'aide d'une institutrice qui demande l'avis  au groupe, et partage son savoir. 
@@ -39,10 +40,10 @@ Les enfants s'entraident, discutent, partagent leurs sentiments ainsi que leurs 
 A retenir
 
 Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'apprentissage et des désirs des enfants.
-</div>
 
-<div id="adultes">
+
+
 ## 2.2 Pour les adultes <a name="adultes"></a>
-</div>
+<div id="adultes"></div>
 
 > A venir
