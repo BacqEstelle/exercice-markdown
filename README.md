@@ -15,3 +15,9 @@ Avec la participation de :
 - [Vincent](https://github.com/Vincent-120/)
 - [Estelle](https://github.com/BacqEstelle/)
 
+> Travail effectué  le **12/09/2019** 
+
+> Progression : Texte en cours de finition
+
+> Projet de groupe effectué chez Becode Hainaut
+
