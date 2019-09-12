@@ -6,10 +6,10 @@
 		</tr>	
 		<td>															
 1. [Introduction]<br>															
-2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]<br>			
+<a href="environnement.md">2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>			
    1. [Pour les enfants](#enfants)<br>										
    2. [Pour les adultes](#adultes)<br>										
-3. [Avantages]<br>															
+<a href="environnement.md">3. [Avantages]</a><br>															
 4. [Et le numérique dans tout ca ?]<br>
 		</td>
 	</tr>	
