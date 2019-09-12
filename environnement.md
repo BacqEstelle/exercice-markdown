@@ -1,16 +1,16 @@
-# Sommaire
+### Sommaire : Environnement optimisé
 <table>
 	<tr>
 		<td>	
 			<ol>														
-<li>[Introduction]<br>														
+<li><a href="intro.md">[Introduction]<br>														
 <li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>
 			<ol>		
 <li><a href="#enfants">	[Pour les enfants]</a><br>									
 <li><a href="#adultes">	[Pour les adultes]</a><br></li>
 			</ol>									
-<li><a href="environnement.md">[Avantages]</a><br>														
-<li>[Et le numérique dans tout ca ?]<br></li>
+<li><a href="avantage.md">[Avantages]</a><br>														
+<li><a href="numerique.md">[Et le numérique dans tout ca ?]<br></li>
 			</ol>
 		</td>
 	</tr>	
