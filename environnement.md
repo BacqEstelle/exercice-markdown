@@ -1,13 +1,13 @@
-
-	| Menu 																		|
-	|---------------------------------------------------------------------------|
-	| 1. [Introduction]															|
-	| 2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]			|
-	|     2.1. [Pour les enfants](#enfants)										|
-	|     2.2. [Pour les adultes](#adultes)										|
-	| 3. [Avantages]															|
-	| 4. [Et le numérique dans tout ca ?]										|
-
+<center>
+| Menu 																		|
+|---------------------------------------------------------------------------|
+| 1. [Introduction]															|
+| 2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]			|
+|     2.1. [Pour les enfants](#enfants)										|
+|     2.2. [Pour les adultes](#adultes)										|
+| 3. [Avantages]															|
+| 4. [Et le numérique dans tout ca ?]										|
+</center>
 
 [Introduction]: <https://github.com/joemccann/dillinger>
 [Qu'est-ce que l'environnement optimisé pour l'apprentissage]: <environnement.md>
