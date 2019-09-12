@@ -2,10 +2,9 @@
 
 ## Listing du contenu
 
-- [Readme.md](Readme.md)
+- [Intro.md](intro.md)
 - [Environnement.md](environnement.md)
 - [Avantage.md](avantage.md)
-- [Intro.md](intro.md)
 - [numerique.md](numerique.md)
 
 ## Participants
