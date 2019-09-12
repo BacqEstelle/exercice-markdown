@@ -1,5 +1,5 @@
 # Environnement Optimisé pour l' Apprentissage
-<div align="center">
+<center>
 <table>
 			<ol>														
 <li>[Introduction]<br>														
@@ -14,7 +14,7 @@
 		</td>
 	</tr>	
 </table>
-</div>
+</center>
 
 
 
