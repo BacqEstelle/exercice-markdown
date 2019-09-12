@@ -9,7 +9,7 @@
 
 [Introduction]: <https://github.com/joemccann/dillinger>
 [Qu'est-ce que l'environnement optimisé pour l'apprentissage]: <https://github.com/BacqEstelle/exercice-markdown/blob/estelle/environnement.md>
-[Avantages]: <https://github.com/joemccann/dillinger>
+[Avantages]: <https://github.com/BacqEstelle/exercice-markdown/blob/estelle/avantage.md>
 [Et le numérique dans tout ca ?]: <https://github.com/joemccann/dillinger>
 
 
