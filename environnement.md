@@ -1,3 +1,6 @@
+[[include repo=exercice-markdown path=menu]]
+
+
 # 2. Qu'est ce qu'un environnement optimisé pour l'apprentissage
 
 Le terme ** «Environnement d’apprentissage» ** est de plus en plus présent dans les écrits concernant l’éducation et la formation des adultes. Cela correspond à la convergence de trois facteurs que nous nous
