@@ -1,4 +1,4 @@
-### Sommaire : Environnement optimisé
+# Sommaire : Environnement optimisé
 <table>
 	<tr>
 		<td>	
@@ -19,7 +19,7 @@
 
 
 
-# 2. Qu'est ce qu'un environnement optimisé pour l'apprentissage 
+## 2. Qu'est ce qu'un environnement optimisé pour l'apprentissage 
 
 Le terme ** «Environnement d’apprentissage» ** est de plus en plus présent dans les écrits concernant l’éducation et la formation des adultes. Cela correspond à la convergence de trois facteurs que nous nous
 
@@ -27,7 +27,7 @@ Le terme ** «Environnement d’apprentissage» ** est de plus en plus présent 
 Celà correspond a une demande de plus en plus présente. Une révolution en quelques sortes sur une méthode d'apprentissage reconnue comme * moyen-ageuse * .
 
 
-## 2.1 Pour les enfants
+### 2.1 Pour les enfants
 
 <div id="enfants"></div>
 Rien de plus important qu'une environnement structuré pour l'enfant, mais hélas, et par manque de temps, ce milieu est souvent laissé a l'abandon pour donner lieu a un système ou le meilleur gagne, et celui qui n'arrive pas a suivre est laissé pour compte.
@@ -40,7 +40,7 @@ Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'ap
 
 
 
-## 2.2 Pour les adultes <a name="adultes"></a>
+### 2.2 Pour les adultes <a name="adultes"></a>
 <div id="adultes"></div>
 
 > A venir
