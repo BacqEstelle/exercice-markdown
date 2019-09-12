@@ -21,7 +21,7 @@ Le terme ** «Environnement d’apprentissage» ** est de plus en plus présent 
 Celà correspond a une demande de plus en plus présente. Une révolution en quelques sortes sur une méthode d'apprentissage reconnue comme * moyen-ageuse * .
 
 
-## 2.1 Pour les enfants <a name="#enfants"></a>
+## 2.1 Pour les enfants <a name="enfants"></a>
 
 Rien de plus important qu'une environnement structuré pour l'enfant, mais hélas, et par manque de temps, ce milieu est souvent laissé a l'abandon pour donner lieu a un système ou le meilleur gagne, et celui qui n'arrive pas a suivre est laissé pour compte.
 Cette structure existe pourtant depuis longtemps, dans ce qu'on appelle "les écoles spécialisées" ou l'enseignement est totalement différent.
@@ -32,7 +32,7 @@ A retenir
 Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'apprentissage et des désirs des enfants.
 
 
-## 2.2 Pour les adultes <a name="#adultes"></a>
+## 2.2 Pour les adultes <a name="adultes"></a>
 
 
 > A venir
