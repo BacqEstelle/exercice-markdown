@@ -23,7 +23,7 @@
 
 Le terme **«Environnement d’apprentissage»** est de plus en plus présent dans les écrits concernant l’éducation et la formation des adultes. Cela correspond à la convergence de trois facteurs que nous nous
 
-** «Environnement d’apprentissage» ** est une terme de plus en plus entendu dans l'actualité ses derniers moments concernant l'éducation, la formation et l'apprentissage chez l'être humain.
+**«Environnement d’apprentissage»** est une terme de plus en plus entendu dans l'actualité ses derniers moments concernant l'éducation, la formation et l'apprentissage chez l'être humain.
 Celà correspond a une demande de plus en plus présente. Une révolution en quelques sortes sur une méthode d'apprentissage reconnue comme *moyen-ageuse* .
 
 
@@ -34,7 +34,9 @@ Rien de plus important qu'une environnement structuré pour l'enfant, mais héla
 Cette structure existe pourtant depuis longtemps, dans ce qu'on appelle "les écoles spécialisées" ou l'enseignement est totalement différent.
 __Les enfants s'entraident, discutent, partagent leurs sentiments ainsi que leurs désires d'avancement__, ce qui :
 - **pousse** le groupe vers le haut;
+
 - aucun enfant n'est mis de coté;
+
 - l'apprentissage se fait par l'aide d'une institutrice qui demande l'avis  au groupe, et partage son savoir. 
 
 ![Enfants](https://www.biendansmoncorps.fr/wp-content/uploads/2017/08/enfant-ecole-bien-etre.jpg)
