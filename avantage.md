@@ -1,6 +1,24 @@
 
-## 3. Les avantages et inconvéniants de passer par un environnement optimisé pour l'apprentissage
+# Sommaire : Environnement optimisé
+<table>
+	<tr>
+		<td>	
+			<ol>														
+<li><a href="intro.md">[Introduction]<br>														
+<li><a href="environnement.md">[Qu'est-ce que l'environnement optimisé pour l'apprentissage]</a><br>						
+<li><a href="avantage.md">[Avantages]</a><br>
+			<ol>		
+            <li><a href="#avantage">	[Avantages]</a><br>									
+            <li><a href="#inconveniant">	[Inconveniants]</a><br></li>
+			</ol>															
+<li><a href="numerique.md">[Et le numérique dans tout ca ?]<br></li>
+			</ol>
+		</td>
+	</tr>	
+</table>
 
+## 3. Les avantages et inconvéniants de passer par un environnement optimisé pour l'apprentissage
+<div id="avantage"></div>
 ### 3.1 Les avantages
 
 Passer par l'apprentissage en ligne ou via l'informatique apporte pour la société et l'apprenant divers avantages
@@ -31,7 +49,7 @@ Passer par l'apprentissage en ligne ou via l'informatique apporte pour la socié
         
 
 
-
+<div id="inconveniant"></div>
   ### 3.2 Les inconvénient de passer par un environnement optimisé pour l'apprentissage
 
 Et oui, il y en à...mais minime...selon les personnes et situations. Çà demande de l'auto-discipline, ce qui peut faire votre force peut devenir votre point faible. Il ne faut pas avoir peur de prendre contact avec les enseignants et le cas échéant demander une entrevue.  
