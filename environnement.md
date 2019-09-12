@@ -1,4 +1,4 @@
-[[include repo=exercice-markdown path=menu]]
+[[include ref=https://github.com/BacqEstelle/exercice-markdown/blob/estelle/menu.md]]
 
 
 # 2. Qu'est ce qu'un environnement optimisé pour l'apprentissage
