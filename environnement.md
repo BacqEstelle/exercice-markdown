@@ -1,6 +1,8 @@
 <table>
 	<tr>
-# Menu 			
+		<td>
+# Menu 		
+		</td>	
 		<td>															
 1. [Introduction]<br>															
 2. [Qu'est-ce que l'environnement optimisé pour l'apprentissage]<br>			
