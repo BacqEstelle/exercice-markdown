@@ -2,7 +2,7 @@
 <table>
 	<tr>
 		<tr>
-Menu 		
+<bold>Menu</bold> 		
 		</tr>	
 		<td>															
 1. [Introduction]<br>															
@@ -15,10 +15,7 @@ Menu
 	</tr>	
 </table>
 </center>
-[Introduction]: <https://github.com/joemccann/dillinger>
-[Qu'est-ce que l'environnement optimisé pour l'apprentissage]: <environnement.md>
-[Avantages]: <avantage.md>
-[Et le numérique dans tout ca ?]: <https://github.com/joemccann/dillinger>
+
 
 
 # 2. Qu'est ce qu'un environnement optimisé pour l'apprentissage 
