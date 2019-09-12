@@ -1,3 +1,7 @@
+<iframe title="menu" src="menu.md" width="400" height="300">
+</iframe>
+
+
 <center>
 <table>
 	<tr>
