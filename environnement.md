@@ -53,7 +53,7 @@ Aucun élément supplémentaire n'est necessaire, juste une autre vision de l'ap
 
 > A venir
 
-<<<<<<< HEAD:environnement.md
+
 <div align="center">
 
 <img src="https://media2.giphy.com/media/jYAGkoghdmD9S/source.gif">
@@ -75,4 +75,4 @@ le 2 eme degré est le type de pédagogie qui convient a l’apprenant
 et pour le 3eme degré est la maîtrise des outil numérique et des ressources qu'il peut ce procurer ou avoir a disposition , plus il maîtrisera c'est 3niveau plus il sera dans un environnement d'apprentissage optimisé</p>
 
 ![Fin](https://media2.giphy.com/media/jYAGkoghdmD9S/source.gif)
->>>>>>> vincent:numerique.md
+
