@@ -32,7 +32,8 @@ Celà correspond a une demande de plus en plus présente. Une révolution en que
 <div id="enfants"></div>
 Rien de plus important qu'une environnement structuré pour l'enfant, mais hélas, et par manque de temps, ce milieu est souvent laissé a l'abandon pour donner lieu a un système ou le meilleur gagne, et celui qui n'arrive pas a suivre est laissé pour compte.
 Cette structure existe pourtant depuis longtemps, dans ce qu'on appelle "les écoles spécialisées" ou l'enseignement est totalement différent.
-[Les enfants s'entraident, discutent, partagent leurs sentiments ainsi que leurs désires d'avancement], ce qui :
+Les enfants s'entraident, discutent, partagent leurs sentiments ainsi que leurs désires d'avancement, ce qui :
+
 - **pousse** le groupe vers le haut;
 
 - aucun enfant n'est mis de coté;
